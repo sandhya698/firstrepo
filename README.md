@@ -1,3 +1,3 @@
-first repository 
 Sandhya Paladugu 
-fact is a fact
+
+I am a student of "NorthWest Missouri State University" 
